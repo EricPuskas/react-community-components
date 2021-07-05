@@ -1,7 +1,25 @@
 {
   "name": "react-community-components",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
+  "author": {
+    "name": "Eric Puskas"
+  },
+  "contributors": [
+    {
+      "name": "Drfonix"
+    }
+  ],
+  "keywords": [
+    "react",
+    "react community components",
+    "react custom components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EricPuskas/react-community-components"
+  },
+  "description": "An open source community package, containing custom react components that follow best practices and the highest standards of implementation.",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
